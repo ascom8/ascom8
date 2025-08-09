@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Anton</h1>
-<h3 align="center">SUAI student | C++ Developer</h3>
+<h3 align="center">SUAI student, C++ Developer</h3>
 
 <h3>Languages and Tools</h3>
 
