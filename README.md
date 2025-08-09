@@ -32,11 +32,11 @@
 
 <h3>GitHub Stats</h3>
 <div align="center">
-<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ascom8&theme=tokyonight"/>
+<img width="81%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ascom8&theme=tokyonight"/>
 
 <p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascom8&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascom8&theme=tokyonight"/> 
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ascom8&theme=tokyonight"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascom8&theme=tokyonight"/> 
 </p>
 </div>
 
